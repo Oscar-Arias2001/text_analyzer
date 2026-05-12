@@ -1,0 +1,723 @@
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 O'Connor
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000004s
+---------------------------------------------------------------
+Amount Of Words:               1
+Amount Of Vowels:              3
+Amount Of Consonants:          4
+Amount Of Spaces:              0
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      8
+Characters (Without Spaces):   8
+Characters Per Words:          7.00
+Alphabetic Characters:         7
+Amount Of Sentences:           1
+Characters Per Sentences:      7.00
+Words Per Sentences:           1.00
+Longest Word:                  O'Connor with 8 characters
+Coleman-Liau Index:            Before Grade 1
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 it's
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000006s
+---------------------------------------------------------------
+Amount Of Words:               1
+Amount Of Vowels:              1
+Amount Of Consonants:          2
+Amount Of Spaces:              0
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      4
+Characters (Without Spaces):   4
+Characters Per Words:          3.00
+Alphabetic Characters:         3
+Amount Of Sentences:           1
+Characters Per Sentences:      3.00
+Words Per Sentences:           1.00
+Longest Word:                  it's with 4 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 high-speed
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000006s
+---------------------------------------------------------------
+Amount Of Words:               1
+Amount Of Vowels:              3
+Amount Of Consonants:          6
+Amount Of Spaces:              0
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      10
+Characters (Without Spaces):   10
+Characters Per Words:          9.00
+Alphabetic Characters:         9
+Amount Of Sentences:           1
+Characters Per Sentences:      9.00
+Words Per Sentences:           1.00
+Longest Word:                  high-speed with 10 characters
+Coleman-Liau Index:            Grade 8
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 One fish. Two fish. Red fish. Blue fish.
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000008s
+---------------------------------------------------------------
+Amount Of Words:               8
+Amount Of Vowels:              10
+Amount Of Consonants:          19
+Amount Of Spaces:              7
+Number Of Digits:              0
+Number Of Punctuation:         4
+Characters (With Spaces):      40
+Characters (Without Spaces):   33
+Characters Per Words:          3.62
+Alphabetic Characters:         29
+Amount Of Sentences:           4
+Characters Per Sentences:      7.25
+Words Per Sentences:           2.00
+Longest Word:                  fish with 4 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 Would you like them here or there? I would not like them here or there. I would not like them anywhere.
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000011s
+---------------------------------------------------------------
+Amount Of Words:               21
+Amount Of Vowels:              34
+Amount Of Consonants:          46
+Amount Of Spaces:              20
+Number Of Digits:              0
+Number Of Punctuation:         3
+Characters (With Spaces):      103
+Characters (Without Spaces):   83
+Characters Per Words:          3.81
+Alphabetic Characters:         80
+Amount Of Sentences:           3
+Characters Per Sentences:      26.67
+Words Per Sentences:           7.00
+Longest Word:                  anywhere with 8 characters
+Coleman-Liau Index:            Grade 2
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 Congratulations! Today is your day. You're off to Great Places! You're off and away!
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000010s
+---------------------------------------------------------------
+Amount Of Words:               14
+Amount Of Vowels:              28
+Amount Of Consonants:          37
+Amount Of Spaces:              13
+Number Of Digits:              0
+Number Of Punctuation:         6
+Characters (With Spaces):      84
+Characters (Without Spaces):   71
+Characters Per Words:          4.64
+Alphabetic Characters:         65
+Amount Of Sentences:           4
+Characters Per Sentences:      16.25
+Words Per Sentences:           3.50
+Longest Word:                  Congratulations with 15 characters
+Coleman-Liau Index:            Grade 3
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 Harry Potter was a highly unusual boy in many ways. For one thing, he hated the summer holidays more than any other time of year. For another, he really wanted to do his homework, but was forced to do it in secret, in the dead of the night. And he also happened to be a wizard.
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000022s
+---------------------------------------------------------------
+Amount Of Words:               56
+Amount Of Vowels:              82
+Amount Of Consonants:          132
+Amount Of Spaces:              55
+Number Of Digits:              0
+Number Of Punctuation:         8
+Characters (With Spaces):      277
+Characters (Without Spaces):   222
+Characters Per Words:          3.82
+Alphabetic Characters:         214
+Amount Of Sentences:           4
+Characters Per Sentences:      53.50
+Words Per Sentences:           14.00
+Longest Word:                  holidays with 8 characters
+Coleman-Liau Index:            Grade 5
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000013s
+---------------------------------------------------------------
+Amount Of Words:               23
+Amount Of Vowels:              38
+Amount Of Consonants:          58
+Amount Of Spaces:              22
+Number Of Digits:              0
+Number Of Punctuation:         2
+Characters (With Spaces):      120
+Characters (Without Spaces):   98
+Characters Per Words:          4.17
+Alphabetic Characters:         96
+Amount Of Sentences:           1
+Characters Per Sentences:      96.00
+Words Per Sentences:           23.00
+Longest Word:                  vulnerable with 10 characters
+Coleman-Liau Index:            Grade 7
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 A large class of computational problems involve the determination of properties of graphs, digraphs, integers, arrays of integers, finite families of finite sets, boolean formulas and elements of other countable domains.
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000036s
+---------------------------------------------------------------
+Amount Of Words:               31
+Amount Of Vowels:              74
+Amount Of Consonants:          110
+Amount Of Spaces:              30
+Number Of Digits:              0
+Number Of Punctuation:         6
+Characters (With Spaces):      220
+Characters (Without Spaces):   190
+Characters Per Words:          5.94
+Alphabetic Characters:         184
+Amount Of Sentences:           1
+Characters Per Sentences:      184.00
+Words Per Sentences:           31.00
+Longest Word:                  computational with 13 characters
+Coleman-Liau Index:            Grade 16+
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 When he was nearly thirteen, my brother Jem got his arm badly broken at the elbow. When it healed, and Jem's fears of never being able to play football were assuaged, he was seldom self-conscious about his injury. His left arm was somewhat shorter than his right; when he stood or walked, the back of his hand was at right angles to his body, his thumb parallel to his thigh.
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000028s
+---------------------------------------------------------------
+Amount Of Words:               70
+Amount Of Vowels:              103
+Amount Of Consonants:          192
+Amount Of Spaces:              69
+Number Of Digits:              0
+Number Of Punctuation:         11
+Characters (With Spaces):      375
+Characters (Without Spaces):   306
+Characters Per Words:          4.21
+Alphabetic Characters:         295
+Amount Of Sentences:           3
+Characters Per Sentences:      98.33
+Words Per Sentences:           23.33
+Longest Word:                  self-conscious with 14 characters
+Coleman-Liau Index:            Grade 8
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 According to Scholastic, E.B. White’s Charlotte’s Web is between a second- and fourth-grade reading level, and Lois Lowry’s The Giver is between an eighth- and twelfth-grade reading level. What does it mean, though, for a book to be at a particular reading level?
+Day Of Analysis:               Monday
+Date Of Analysis:              05/04/26
+Analysis Time:                 0.000022s
+---------------------------------------------------------------
+Amount Of Words:               44
+Amount Of Vowels:              79
+Amount Of Consonants:          127
+Amount Of Spaces:              42
+Number Of Digits:              0
+Number Of Punctuation:         12
+Characters (With Spaces):      269
+Characters (Without Spaces):   227
+Characters Per Words:          4.68
+Alphabetic Characters:         206
+Amount Of Sentences:           4
+Characters Per Sentences:      51.50
+Words Per Sentences:           11.00
+Longest Word:                  twelfth-grade with 13 characters
+Coleman-Liau Index:            Grade 9
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 One hot afternoon, a fox was walking through the forest and spotted a bunch of grapes hanging from a high branch. "Just the thing to quench my thirst," said the fox.
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000016s
+---------------------------------------------------------------
+Amount Of Words:               31
+Amount Of Vowels:              42
+Amount Of Consonants:          87
+Amount Of Spaces:              30
+Number Of Digits:              0
+Number Of Punctuation:         6
+Characters (With Spaces):      165
+Characters (Without Spaces):   135
+Characters Per Words:          4.16
+Alphabetic Characters:         129
+Amount Of Sentences:           2
+Characters Per Sentences:      64.50
+Words Per Sentences:           15.50
+Longest Word:                  afternoon with 9 characters
+Coleman-Liau Index:            Grade 7
+
+
+===============================================================
+                      TEXT ANALYZER REPORT
+===============================================================
+Analyzed Text:                 El 11 de marzo de 2019, McGregor fue arrestado a las afueras del Fontainebleau Hotel de Miami Beach (Florida) después de un altercado con un fan. El informe policial indica que McGregor cogió el teléfono del fan mientras éste le estaba sacando fotos, lo estrelló contra el suelo y posteriormente se lo llevó.
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000025s
+---------------------------------------------------------------
+Amount Of Words:               51
+Amount Of Vowels:              103
+Amount Of Consonants:          135
+Amount Of Spaces:              52
+Number Of Digits:              6
+Number Of Punctuation:         6
+Characters (With Spaces):      314
+Characters (Without Spaces):   262
+Characters Per Words:          4.67
+Alphabetic Characters:         238
+Amount Of Sentences:           2
+Characters Per Sentences:      119.00
+Words Per Sentences:           25.50
+Longest Word:                  posteriormente with 14 characters
+Coleman-Liau Index:            Grade 10
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 Hello1230Chapo!
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000006s
+---------------------------------------------------------------
+Amount Of Words:               2
+Amount Of Vowels:              4
+Amount Of Consonants:          6
+Amount Of Spaces:              0
+Number Of Digits:              4
+Number Of Punctuation:         1
+Characters (With Spaces):      15
+Characters (Without Spaces):   15
+Characters Per Words:          5.00
+Alphabetic Characters:         10
+Amount Of Sentences:           1
+Characters Per Sentences:      10.00
+Words Per Sentences:           2.00
+Longest Word:                  Hello with 5 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 Hello mate! Have a pretty day.
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000034s
+---------------------------------------------------------------
+Amount Of Words:               6
+Amount Of Vowels:              9
+Amount Of Consonants:          14
+Amount Of Spaces:              5
+Number Of Digits:              0
+Number Of Punctuation:         2
+Characters (With Spaces):      30
+Characters (Without Spaces):   25
+Characters Per Words:          3.83
+Alphabetic Characters:         23
+Amount Of Sentences:           2
+Characters Per Sentences:      11.50
+Words Per Sentences:           3.00
+Longest Word:                  pretty with 6 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 Hello mate! Have a pretty day!
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000031s
+---------------------------------------------------------------
+Amount Of Words:               6
+Amount Of Vowels:              9
+Amount Of Consonants:          14
+Amount Of Spaces:              5
+Number Of Digits:              0
+Number Of Punctuation:         2
+Characters (With Spaces):      30
+Characters (Without Spaces):   25
+Characters Per Words:          3.83
+Alphabetic Characters:         23
+Amount Of Sentences:           2
+Characters Per Sentences:      11.50
+Words Per Sentences:           3.00
+Longest Word:                  pretty with 6 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 Hello mate!
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000041s
+---------------------------------------------------------------
+Amount Of Words:               2
+Amount Of Vowels:              4
+Amount Of Consonants:          5
+Amount Of Spaces:              1
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      11
+Characters (Without Spaces):   10
+Characters Per Words:          4.50
+Alphabetic Characters:         9
+Amount Of Sentences:           1
+Characters Per Sentences:      9.00
+Words Per Sentences:           2.00
+Longest Word:                  Hello with 5 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 It was a tough day but I could do it!
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000039s
+---------------------------------------------------------------
+Amount Of Words:               10
+Amount Of Vowels:              12
+Amount Of Consonants:          15
+Amount Of Spaces:              9
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      37
+Characters (Without Spaces):   28
+Characters Per Words:          2.70
+Alphabetic Characters:         27
+Amount Of Sentences:           1
+Characters Per Sentences:      27.00
+Words Per Sentences:           10.00
+Longest Word:                  tough with 5 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 O'Connor
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000037s
+---------------------------------------------------------------
+Amount Of Words:               1
+Amount Of Vowels:              3
+Amount Of Consonants:          4
+Amount Of Spaces:              0
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      8
+Characters (Without Spaces):   8
+Characters Per Words:          7.00
+Alphabetic Characters:         7
+Amount Of Sentences:           1
+Characters Per Sentences:      7.00
+Words Per Sentences:           1.00
+Longest Word:                  O'Connor with 8 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 It was a tough day but I could do it!
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000054s
+---------------------------------------------------------------
+Amount Of Words:               10
+Amount Of Vowels:              12
+Amount Of Consonants:          15
+Amount Of Spaces:              9
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      37
+Characters (Without Spaces):   28
+Characters Per Words:          2.70
+Alphabetic Characters:         27
+Amount Of Sentences:           1
+Characters Per Sentences:      27.00
+Words Per Sentences:           10.00
+Longest Word:                  tough with 5 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 Hello!
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000035s
+---------------------------------------------------------------
+Amount Of Words:               1
+Amount Of Vowels:              2
+Amount Of Consonants:          3
+Amount Of Spaces:              0
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      6
+Characters (Without Spaces):   6
+Characters Per Words:          5.00
+Alphabetic Characters:         5
+Amount Of Sentences:           1
+Characters Per Sentences:      5.00
+Words Per Sentences:           1.00
+Longest Word:                  Hello with 5 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 Hi.
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000043s
+---------------------------------------------------------------
+Amount Of Words:               1
+Amount Of Vowels:              1
+Amount Of Consonants:          1
+Amount Of Spaces:              0
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      3
+Characters (Without Spaces):   3
+Characters Per Words:          2.00
+Alphabetic Characters:         2
+Amount Of Sentences:           1
+Characters Per Sentences:      2.00
+Words Per Sentences:           1.00
+Longest Word:                  Hi with 2 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 Hello bro.
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000052s
+---------------------------------------------------------------
+Amount Of Words:               2
+Amount Of Vowels:              3
+Amount Of Consonants:          5
+Amount Of Spaces:              1
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      10
+Characters (Without Spaces):   9
+Characters Per Words:          4.00
+Alphabetic Characters:         8
+Amount Of Sentences:           1
+Characters Per Sentences:      8.00
+Words Per Sentences:           2.00
+Longest Word:                  Hello with 5 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 House
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000049s
+---------------------------------------------------------------
+Amount Of Words:               1
+Amount Of Vowels:              3
+Amount Of Consonants:          2
+Amount Of Spaces:              0
+Number Of Digits:              0
+Number Of Punctuation:         0
+Characters (With Spaces):      5
+Characters (Without Spaces):   5
+Characters Per Words:          5.00
+Alphabetic Characters:         5
+Amount Of Sentences:           1
+Characters Per Sentences:      5.00
+Words Per Sentences:           1.00
+Longest Word:                  House with 5 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 I love house music.
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000071s
+---------------------------------------------------------------
+Amount Of Words:               4
+Amount Of Vowels:              8
+Amount Of Consonants:          7
+Amount Of Spaces:              3
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      19
+Characters (Without Spaces):   16
+Characters Per Words:          3.75
+Alphabetic Characters:         15
+Amount Of Sentences:           1
+Characters Per Sentences:      15.00
+Words Per Sentences:           4.00
+Longest Word:                  house with 5 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 Hi man.
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000171s
+---------------------------------------------------------------
+Amount Of Words:               2
+Amount Of Vowels:              2
+Amount Of Consonants:          3
+Amount Of Spaces:              1
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      7
+Characters (Without Spaces):   6
+Characters Per Words:          2.50
+Alphabetic Characters:         5
+Amount Of Sentences:           1
+Characters Per Sentences:      5.00
+Words Per Sentences:           2.00
+Longest Word:                  man with 3 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 It is amazing!
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 0.000170s
+---------------------------------------------------------------
+Amount Of Words:               3
+Amount Of Vowels:              5
+Amount Of Consonants:          6
+Amount Of Spaces:              2
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      14
+Characters (Without Spaces):   12
+Characters Per Words:          3.67
+Alphabetic Characters:         11
+Amount Of Sentences:           1
+Characters Per Sentences:      11.00
+Words Per Sentences:           3.00
+Longest Word:                  amazing with 7 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 Hi Bro!
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 3.024000s
+---------------------------------------------------------------
+Amount Of Words:               2
+Amount Of Vowels:              2
+Amount Of Consonants:          3
+Amount Of Spaces:              1
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      7
+Characters (Without Spaces):   6
+Characters Per Words:          2.50
+Alphabetic Characters:         5
+Amount Of Sentences:           1
+Characters Per Sentences:      5.00
+Words Per Sentences:           2.00
+Longest Word:                  Bro with 3 characters
+Coleman-Liau Index:            Before Grade 1
+
+
+===============================================================
+                      TEXT ANALYZER REPORT                     
+===============================================================
+Analyzed Text:                 This is the most amazing way of seeing the context!
+Day Of Analysis:               Tuesday
+Date Of Analysis:              05/05/26
+Analysis Time:                 3.024000s
+---------------------------------------------------------------
+Amount Of Words:               10
+Amount Of Vowels:              15
+Amount Of Consonants:          26
+Amount Of Spaces:              9
+Number Of Digits:              0
+Number Of Punctuation:         1
+Characters (With Spaces):      51
+Characters (Without Spaces):   42
+Characters Per Words:          4.10
+Alphabetic Characters:         41
+Amount Of Sentences:           1
+Characters Per Sentences:      41.00
+Words Per Sentences:           10.00
+Longest Word:                  amazing with 7 characters
+Coleman-Liau Index:            Grade 5
+
+
