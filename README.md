@@ -1,3 +1,7 @@
+# text_analyzer.c Program
+
+![Text Analyzer Image](https://d3qaonxcit2c3h.cloudfront.net/wp-content/uploads/2024/01/25042356/Herramientas-de-analisis-de-texto_-Explora-las-mejores-del-2024-980x552.webp)
+
 # 📝 Linguistic Analysis & Readability Tool
 
 A robust command-line text analyzer written in C that performs detailed linguistic analysis, readability evaluation, and persistent report storage.
